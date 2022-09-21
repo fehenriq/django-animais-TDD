@@ -25,5 +25,5 @@ Para abrir e rodar o projeto, execute os comandos:
 - py manage.py makemigrations
 - py manage.py migrate
 - py manage.py createsuperuser
-- py mmanage.py runserver  
+- py manage.py runserver  
 - Talvez: py manage.py collectstatic antes do runserver
